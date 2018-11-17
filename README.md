@@ -1,3 +1,3 @@
 # latihanqa
-Untuk belajar manejadi QA Master
+Untuk belajar menjadi QA Master
 Welcome to version 1.0.0
